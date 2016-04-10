@@ -11,6 +11,10 @@ Loan Analyzer is an easy to use application to analyze loans.
 # Pre-req
 Works with Xcode 7.2.1
 
+#Screencast
+[![LoanAnalyzer Screencast](https://i.ytimg.com/vi/k0LpajkDXao/1.jpg?time=1460324519839)](https://youtu.be/k0LpajkDXao "Loan Analyzer Screencast")
+
+
 # Screenshots
 <img src="https://github.com/sleeloy99/IOS-LoanAnalyzer/blob/master/Screenshots/mainpage.png" width="200">
 <img src="https://github.com/sleeloy99/IOS-LoanAnalyzer/blob/master/Screenshots/loandetailcalc.png" width="200">
