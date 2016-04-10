@@ -24,7 +24,7 @@ Works with Xcode 7.2.1
 <img src="https://github.com/sleeloy99/IOS-LoanAnalyzer/blob/master/Screenshots/loancompare.png" width="400">
 
 # Why I made this app
-Years ago I wanted to learn Xcode.  I also wanted an intuitive way to analyze loans.
+Years ago I wanted to learn Xcode and experiment with different usability ideas.  I also wanted an intuitive way to analyze loans.
 
 
 
